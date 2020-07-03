@@ -1,0 +1,4 @@
+up = 2mYrJwmSGRQY1PywIWll
+right = h5pIFAWl6cHcSk4GYvEX
+down = n4xyH0CqLu3m1aIlKbpP
+left = HfyjOxUMKTcvAf8y15El
