@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://www.borland.com/schemas/delphi/10.0/XMLDataBinding">
+  <xs:element name="podaci" type="podaciType"/>
+  <xs:complexType name="podaciType"><xs:annotation>
+      <xs:appinfo xdb:docElement="podaci"/>
+    </xs:annotation>
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="User" type="UserType" maxOccurs="unbounded"/>
+    </sequence>
+  </xs:complexType>
+  <xs:complexType name="UserType">
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="password" type="xs:string"/>
+      <xs:element name="ip" type="xs:string"/>
+    </sequence>
+  </xs:complexType>
+</xs:schema>

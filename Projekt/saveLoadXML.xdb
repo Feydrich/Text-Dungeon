@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://www.borland.com/schemas/delphi/10.0/XMLDataBinding">
+  <xs:element name="saveLoad" type="saveLoadType"/>
+  <xs:complexType name="saveLoadType"><xs:annotation>
+      <xs:appinfo xdb:docElement="saveLoad"/>
+    </xs:annotation>
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="positions" type="positionsType"/>
+    </sequence>
+  </xs:complexType>
+  <xs:complexType name="positionsType">
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="plot" type="xs:string" maxOccurs="unbounded"/>
+    </sequence>
+  </xs:complexType>
+</xs:schema>

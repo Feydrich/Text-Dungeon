@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<podaci>
+	<User>
+		<name>test</name>
+		<password>a94a8fe5ccb19ba61c4c0873d391e987982fbbd3</password>
+	</User>
+	<User>
+		<name>Leon</name>
+		<password>be92910ae7bb6f58bb9b7c6f845bc30640119592</password>
+		</User>
+	<User>
+		<name>Filip</name>
+		<password>a94a8fe5ccb19ba61c4c0873d391e987982fbbd3</password>
+	</User>
+</podaci>
+
+

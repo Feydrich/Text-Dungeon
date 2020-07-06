@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://www.borland.com/schemas/delphi/10.0/XMLDataBinding">
+  <xs:element name="root" type="rootType"/>
+  <xs:complexType name="rootType"><xs:annotation>
+      <xs:appinfo xdb:docElement="root"/>
+    </xs:annotation>
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="Sobe" type="SobeType" maxOccurs="unbounded"/>
+    </sequence>
+  </xs:complexType>
+  <xs:complexType name="SobeType">
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="Soba" type="xs:string"><xs:annotation>
+          <xs:appinfo xdb:dataType="System::AnsiString"/>
+        </xs:annotation>
+      </xs:element>
+    </sequence>
+  </xs:complexType>
+</xs:schema>

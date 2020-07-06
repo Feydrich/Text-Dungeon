@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://www.borland.com/schemas/delphi/10.0/XMLDataBinding">
+  <xs:element name="player" type="playerType"/>
+  <xs:complexType name="playerType"><xs:annotation>
+      <xs:appinfo xdb:docElement="player"/>
+    </xs:annotation>
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="health" type="xs:integer"><xs:annotation>
+          <xs:appinfo xdb:dataType="double"/>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="dex" type="xs:integer"><xs:annotation>
+          <xs:appinfo xdb:dataType="System::UnicodeString"/>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="stregth" type="xs:integer"><xs:annotation>
+          <xs:appinfo xdb:dataType="System::UnicodeString"/>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="poruka" type="xs:string"/>
+    </sequence>
+  </xs:complexType>
+</xs:schema>
