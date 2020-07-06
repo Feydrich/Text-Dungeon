@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{F0B830E9-55D7-4E8A-B2F0-3815049E80EC}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Text Dungeon.cbproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="HRV\Text Dungeon_HRV.bdsproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ENU\Text Dungeon_ENU.bdsproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Text Dungeon">
+        <MSBuild Projects="Text Dungeon.cbproj"/>
+    </Target>
+    <Target Name="Text Dungeon:Clean">
+        <MSBuild Projects="Text Dungeon.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Text Dungeon:Make">
+        <MSBuild Projects="Text Dungeon.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Text Dungeon_HRV">
+        <MSBuild Projects="HRV\Text Dungeon_HRV.bdsproj"/>
+    </Target>
+    <Target Name="Text Dungeon_HRV:Clean">
+        <MSBuild Projects="HRV\Text Dungeon_HRV.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Text Dungeon_HRV:Make">
+        <MSBuild Projects="HRV\Text Dungeon_HRV.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="Text Dungeon_ENU">
+        <MSBuild Projects="ENU\Text Dungeon_ENU.bdsproj"/>
+    </Target>
+    <Target Name="Text Dungeon_ENU:Clean">
+        <MSBuild Projects="ENU\Text Dungeon_ENU.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Text Dungeon_ENU:Make">
+        <MSBuild Projects="ENU\Text Dungeon_ENU.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Text Dungeon;Text Dungeon_HRV;Text Dungeon_ENU"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Text Dungeon:Clean;Text Dungeon_HRV:Clean;Text Dungeon_ENU:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Text Dungeon:Make;Text Dungeon_HRV:Make;Text Dungeon_ENU:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
