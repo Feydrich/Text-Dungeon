@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Bassie\Desktop\TextDungeon1.0\Projekt\connectForm.dfm" source-language="hr-HR" target-language="hr-HR" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Bassie\Desktop\TextDungeon1.0\Projekt\connectForm.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43981.8004166667</prop>
+        <prop prop-type="OrigDateTime">43978.9053935185</prop>
+        <prop prop-type="XlatDateTime">43978.9053935185</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">33</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:ConnectionForm.Left" resname="O:ConnectionForm.Left">
+        <source>624</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Top" resname="O:ConnectionForm.Top">
+        <source>382</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.BorderStyle" resname="O:ConnectionForm.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Caption" resname="O:ConnectionForm.Caption">
+        <source>'Multiplayer'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.ClientHeight" resname="O:ConnectionForm.ClientHeight">
+        <source>77</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.ClientWidth" resname="O:ConnectionForm.ClientWidth">
+        <source>407</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Color" resname="O:ConnectionForm.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Font.Charset" resname="O:ConnectionForm.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Font.Color" resname="O:ConnectionForm.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Font.Height" resname="O:ConnectionForm.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Font.Name" resname="O:ConnectionForm.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Font.Style" resname="O:ConnectionForm.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.OldCreateOrder" resname="O:ConnectionForm.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.Position" resname="O:ConnectionForm.Position">
+        <source>poDesigned</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.PixelsPerInch" resname="O:ConnectionForm.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.TextHeight" resname="O:ConnectionForm.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TConnectionForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:HostLabel.Left" resname="O:ConnectionForm.O:HostLabel.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:HostLabel.Top" resname="O:ConnectionForm.O:HostLabel.Top">
+        <source>14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:HostLabel.Width" resname="O:ConnectionForm.O:HostLabel.Width">
+        <source>26</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:HostLabel.Height" resname="O:ConnectionForm.O:HostLabel.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:HostLabel.Caption" resname="O:ConnectionForm.O:HostLabel.Caption">
+        <source>'Host:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:IP.Left" resname="O:ConnectionForm.O:IP.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:IP.Top" resname="O:ConnectionForm.O:IP.Top">
+        <source>39</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:IP.Width" resname="O:ConnectionForm.O:IP.Width">
+        <source>281</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:IP.Height" resname="O:ConnectionForm.O:IP.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:IP.TabOrder" resname="O:ConnectionForm.O:IP.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:ConnectButton.Left" resname="O:ConnectionForm.O:ConnectButton.Left">
+        <source>304</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:ConnectButton.Top" resname="O:ConnectionForm.O:ConnectButton.Top">
+        <source>39</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:ConnectButton.Width" resname="O:ConnectionForm.O:ConnectButton.Width">
+        <source>85</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:ConnectButton.Height" resname="O:ConnectionForm.O:ConnectButton.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:ConnectButton.Caption" resname="O:ConnectionForm.O:ConnectButton.Caption">
+        <source>'Connect'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:ConnectButton.TabOrder" resname="O:ConnectionForm.O:ConnectButton.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:ConnectionForm.O:ConnectButton.OnClick" resname="O:ConnectionForm.O:ConnectButton.OnClick">
+        <source>ConnectButtonClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004250116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

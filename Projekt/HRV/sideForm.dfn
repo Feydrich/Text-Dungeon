@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Bassie\Desktop\TextDungeon1.0\Projekt\sideForm.dfm" source-language="hr-HR" target-language="hr-HR" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Bassie\Desktop\TextDungeon1.0\Projekt\sideForm.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43981.800462963</prop>
+        <prop prop-type="OrigDateTime">43979.8293518519</prop>
+        <prop prop-type="XlatDateTime">43979.8293518519</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">57</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:sideMenu.Left" resname="O:sideMenu.Left">
+        <source>1317</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Top" resname="O:sideMenu.Top">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.BorderStyle" resname="O:sideMenu.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Caption" resname="O:sideMenu.Caption">
+        <source>'Menu'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.ClientHeight" resname="O:sideMenu.ClientHeight">
+        <source>316</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.ClientWidth" resname="O:sideMenu.ClientWidth">
+        <source>217</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Color" resname="O:sideMenu.Color">
+        <source>clBackground</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Font.Charset" resname="O:sideMenu.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Font.Color" resname="O:sideMenu.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Font.Height" resname="O:sideMenu.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Font.Name" resname="O:sideMenu.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Font.Style" resname="O:sideMenu.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.OldCreateOrder" resname="O:sideMenu.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.Position" resname="O:sideMenu.Position">
+        <source>poDesigned</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.PixelsPerInch" resname="O:sideMenu.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.TextHeight" resname="O:sideMenu.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TsideMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button1.Left" resname="O:sideMenu.O:Button1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button1.Top" resname="O:sideMenu.O:Button1.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button1.Width" resname="O:sideMenu.O:Button1.Width">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button1.Height" resname="O:sideMenu.O:Button1.Height">
+        <source>41</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button1.Caption" resname="O:sideMenu.O:Button1.Caption">
+        <source>'Stats and Items'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button1.TabOrder" resname="O:sideMenu.O:Button1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button1.OnClick" resname="O:sideMenu.O:Button1.OnClick">
+        <source>Button1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button2.Left" resname="O:sideMenu.O:Button2.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button2.Top" resname="O:sideMenu.O:Button2.Top">
+        <source>74</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button2.Width" resname="O:sideMenu.O:Button2.Width">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button2.Height" resname="O:sideMenu.O:Button2.Height">
+        <source>41</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button2.Caption" resname="O:sideMenu.O:Button2.Caption">
+        <source>'Connect'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button2.TabOrder" resname="O:sideMenu.O:Button2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button2.OnClick" resname="O:sideMenu.O:Button2.OnClick">
+        <source>Button2Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button3.Left" resname="O:sideMenu.O:Button3.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button3.Top" resname="O:sideMenu.O:Button3.Top">
+        <source>133</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button3.Width" resname="O:sideMenu.O:Button3.Width">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button3.Height" resname="O:sideMenu.O:Button3.Height">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button3.Caption" resname="O:sideMenu.O:Button3.Caption">
+        <source>'Save Game'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button3.TabOrder" resname="O:sideMenu.O:Button3.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button3.OnClick" resname="O:sideMenu.O:Button3.OnClick">
+        <source>Button3Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button4.Left" resname="O:sideMenu.O:Button4.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button4.Top" resname="O:sideMenu.O:Button4.Top">
+        <source>191</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button4.Width" resname="O:sideMenu.O:Button4.Width">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button4.Height" resname="O:sideMenu.O:Button4.Height">
+        <source>42</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button4.Caption" resname="O:sideMenu.O:Button4.Caption">
+        <source>'Load Game'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button4.TabOrder" resname="O:sideMenu.O:Button4.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button4.OnClick" resname="O:sideMenu.O:Button4.OnClick">
+        <source>Button4Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button5.Left" resname="O:sideMenu.O:Button5.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button5.Top" resname="O:sideMenu.O:Button5.Top">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button5.Width" resname="O:sideMenu.O:Button5.Width">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button5.Height" resname="O:sideMenu.O:Button5.Height">
+        <source>42</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button5.Caption" resname="O:sideMenu.O:Button5.Caption">
+        <source>'Quit'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button5.TabOrder" resname="O:sideMenu.O:Button5.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:Button5.OnClick" resname="O:sideMenu.O:Button5.OnClick">
+        <source>Button5Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:playerSettingsXML.FileName" resname="O:sideMenu.O:playerSettingsXML.FileName">
+        <source>'playerSettings.xml'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TXMLDocument</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:playerSettingsXML.Left" resname="O:sideMenu.O:playerSettingsXML.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TXMLDocument</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:playerSettingsXML.Top" resname="O:sideMenu.O:playerSettingsXML.Top">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TXMLDocument</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:saveLoadXML.FileName" resname="O:sideMenu.O:saveLoadXML.FileName">
+        <source>'saveLoadXML.xml'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TXMLDocument</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:saveLoadXML.Left" resname="O:sideMenu.O:saveLoadXML.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TXMLDocument</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:sideMenu.O:saveLoadXML.Top" resname="O:sideMenu.O:saveLoadXML.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43981.8004844329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TXMLDocument</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
